@@ -1,6 +1,12 @@
 # React Rally Day 1 - 2016
 ## Notes
-TODO: Get slide links
+TODO:
+- Get slide links
+- Watch FE Masters
+- Read drboolean functional book (gitscm book and clean code)
+- move all devops to AWS
+- Learn go
+- Learn bash
 
 ### Animation talk
 - Saccade **
@@ -65,4 +71,7 @@ Link: slides.com/sdrasner/react-rally
 - `serverless remove`
 - SERVERLESS 101
 - Function, Event, Resource (s3, dynamo, iam, etc), service
-- 
+- React europe -- watch conf videos
+- Use cases
+- Marketing site + form
+- Background jobs
