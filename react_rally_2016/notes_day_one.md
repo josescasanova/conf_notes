@@ -75,3 +75,21 @@ Link: slides.com/sdrasner/react-rally
 - Use cases
 - Marketing site + form
 - Background jobs
+
+## Multiprocess thread
+- Flux standard actions
+- redux-saga
+- redux-loop
+
+## React performance***
+- Use FPS tool in chrome dev tools
+- Perf addons
+- Sentry / full story == neat
+- RecordPerfButton
+- Trigger slow behavior
+- JS Profile
+- Reactaddonsperf
+- PureRenderMixin
+- http://benchling.engineering/ - React pef
+- GET SLIDES
+- implement window.performance
